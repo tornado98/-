@@ -13,6 +13,7 @@ export default function Home() {
         <meta name="author" CONTENT="モハマド・レザ・タヘリ"></meta>
       </Head>
       <h1>rayaneh1.com</h1>
+      <h1>Home</h1>
 
     </div>
   )
